@@ -8,7 +8,7 @@
   <title>Кнопка</title>
   <script>
   function ex1() {
-   var exercise_1 = 'exercise_1.md';
+   var exercise_1 = 'https://madiar25.github.io/exercise_1.md';
    location.href = exercise_1;
    }
   </script>
