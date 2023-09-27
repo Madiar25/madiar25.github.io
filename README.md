@@ -13,7 +13,7 @@
  <body> 
   <form>
    <a href="#" onclick="goTo()"></a>
-   <p><input type="submit" value="Бастау" href="#" onclick="Bastau()"></p>
+   <p><input href="#" value="Бастау" onclick="Bastau()"></p>
   </form>
  </body>
 </html>
