@@ -4,10 +4,7 @@
   <meta charset="utf-8">
   <title>Кнопка</title>
   <script>
-   var Bastau = function() {
-  var meni_1 = 'http://youtube.com';
-  location.href = meni_1;
-}
+   <a href="#" onclick="goTo()"></a>
   </script>
  </head>
  <body> 
