@@ -8,7 +8,7 @@
   <title>Кнопка</title>
   <script>
   function ex1() {
-   var exercise_1 = 'тут должна быть ссылка на следующий репозиторий';
+   var exercise_1 = 'exercise_1.md';
    location.href = exercise_1;
    }
   </script>
