@@ -1,6 +1,5 @@
 # *Қазақ тілінен тест*
 
-<!DOCTYPE html>
 <html>
  <head>
   <meta charset="utf-8">
