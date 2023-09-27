@@ -11,6 +11,7 @@
   </script>
  </head>
  <body> 
+  <a href="#" onClick="goTo()">Youtube</a>
   <form>
    <p><input type="submit" value="Бастау"></p>
   </form>
