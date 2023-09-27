@@ -1,14 +1,17 @@
 # *Қазақ тілінен тест*
-Мойыл – дәрілік өсідік. Қабығы қоңыр. Гүлдері ақ түсті болады. Дәрі жасау үшін мойылдың гүлі мен жемісін пайдаланады. Мойылдан жасалған дәрімен көз, өкпе ауруларын емдейді. Мойылдың гүлін көктемде, жемісін күзде жинайды.
+
 <!DOCTYPE html>
 <html>
  <head>
   <meta charset="utf-8">
   <title>Кнопка</title>
+  <script>
+   function Bastau(){
+    }
  </head>
  <body> 
   <form>
-   <p><input type="button" value=" Бастау "></p>
+   <p><input type="button" value=" Бастау " onclick "Bastau()"></p>
   </form>
  </body>
 </html>
