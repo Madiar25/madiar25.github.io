@@ -2,11 +2,13 @@
 <html>
  <head>
   <meta charset="utf-8">
-  <title>Кнопка</title>  
+  <title>Кнопка</title>
  </head>
  <body> 
   <form>
-   <p><input type="button" value=" Бастау " onclick "Bastau() "></p>
+   <p><input value="Введите текст"></p>
+   <p><input type="submit" value="Отправить">
+      <input type="reset" value="Очистить"></p>
   </form>
  </body>
 </html>
