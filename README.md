@@ -3,12 +3,13 @@
  <head>
   <meta charset="utf-8">
   <title>Кнопка</title>
+  <script>
+    <p><a href="https://www.youtube.com" target="_blank">
+  </script>
  </head>
  <body> 
   <form>
-   <p><input value="Введите текст"></p>
-   <p><input type="submit" value="Отправить">
-      <input type="reset" value="Очистить"></p>
+   <p><input type="submit" value="Бастау">
   </form>
  </body>
 </html>
