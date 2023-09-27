@@ -9,7 +9,7 @@
  </head>
  <body> 
   <form>
-   <p><input type="submit" value="Бастау">
+   <p><input type="submit" value="Бастау"></p>
   </form>
  </body>
 </html>
