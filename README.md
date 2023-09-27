@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <title>Кнопка</title>
   <script>
-    <p><a href="https://www.youtube.com" target="_blank"></p>
+    <p><a href="https://www.youtube.com" target="_blank"></a></p>
   </script>
  </head>
  <body> 
