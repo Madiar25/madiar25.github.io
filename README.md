@@ -2,12 +2,7 @@
 <html>
  <head>
   <meta charset="utf-8">
-  <title>Кнопка</title>
-  <script>
-   function Bastau(){
-    <p><a href="http://htmlbook.ru" target="_blank">Ссылка 
-  открывает новое окно на сайт www.htmlbook.ru</a></p> 
-   }
+  <title>Кнопка</title>  
  </head>
  <body> 
   <form>
