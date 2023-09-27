@@ -4,7 +4,10 @@
   <meta charset="utf-8">
   <title>Кнопка</title>
   <script>
-    <p><a href="https://www.youtube.com" target="_blank"></a></p>
+   var goTo = function() {
+  var meni_1 = 'http://youtube.com';
+  location.href = meni_1;
+}
   </script>
  </head>
  <body> 
