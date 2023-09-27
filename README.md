@@ -4,16 +4,16 @@
   <meta charset="utf-8">
   <title>Кнопка</title>
   <script>
-   var goTo = function() {
+   var Bastau = function() {
   var meni_1 = 'http://youtube.com';
   location.href = meni_1;
 }
   </script>
  </head>
  <body> 
-  <a href="#" onClick="goTo()">Youtube</a>
   <form>
-   <p><input type="submit" value="Бастау"></p>
+   <a href="#" onclick="goTo()"></a>
+   <p><input type="submit" value="Бастау" onclick="Bastau()"></p>
   </form>
  </body>
 </html>
